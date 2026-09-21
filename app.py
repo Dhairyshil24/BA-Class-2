@@ -76,7 +76,6 @@ Files
 
 Folder structure
 delivery-delay-app/
-│
 ├── app.py
 ├── model.sav
 ├── requirements.txt
