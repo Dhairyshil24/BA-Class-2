@@ -4,7 +4,7 @@ import joblib
 import numpy as np
 
 st.set_page_config(
-    page_title="Delivery Delay Predictor",
+    page_title="Delivery Delay Predictor made by Dhairyshil p46017",
     page_icon="🚚",
     layout="centered"
 )
