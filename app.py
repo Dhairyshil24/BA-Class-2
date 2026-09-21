@@ -15,7 +15,7 @@ def load_model():
 
 model = load_model()
 
-st.title("🚚 Delivery Delay Predictor")
+st.title("🚚 Delivery Delay Predictor made by Dhairyshil p46017")
 st.write("Enter the values below to predict whether the delivery will be delayed.")
 
 st.divider()
